@@ -12,4 +12,5 @@ npm start
 
 # Output
 
-![alt text](<Screenshot from 2025-01-09 15-21-59.png>)
+![Screenshot from 2025-01-09 15-21-59](https://github.com/user-attachments/assets/c547214f-a31e-4946-b3c5-c8828a8b9f7c)
+
